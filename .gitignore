@@ -1,0 +1,8 @@
+
+*.txt
+*.cbp
+*.depend
+*.layout
+*.pdf
+bin
+obj
